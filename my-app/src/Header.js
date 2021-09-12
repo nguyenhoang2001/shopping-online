@@ -14,7 +14,7 @@ export default function Header() {
                 className="header__searchInput" 
                 />
             </div>
-
+asdasdasd
             <div className="header__nav">
                 <div className="header__option">
 
